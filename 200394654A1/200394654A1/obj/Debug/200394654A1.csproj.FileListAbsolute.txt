@@ -1,0 +1,9 @@
+C:\Users\demo\Desktop\C# .net\Calculate_Change\200394654A1\200394654A1\bin\Debug\200394654A1.exe.config
+C:\Users\demo\Desktop\C# .net\Calculate_Change\200394654A1\200394654A1\bin\Debug\200394654A1.exe
+C:\Users\demo\Desktop\C# .net\Calculate_Change\200394654A1\200394654A1\bin\Debug\200394654A1.pdb
+C:\Users\demo\Desktop\C# .net\Calculate_Change\200394654A1\200394654A1\obj\Debug\200394654A1.csprojAssemblyReference.cache
+C:\Users\demo\Desktop\C# .net\Calculate_Change\200394654A1\200394654A1\obj\Debug\_200394654A1.Form1.resources
+C:\Users\demo\Desktop\C# .net\Calculate_Change\200394654A1\200394654A1\obj\Debug\_200394654A1.Properties.Resources.resources
+C:\Users\demo\Desktop\C# .net\Calculate_Change\200394654A1\200394654A1\obj\Debug\200394654A1.csproj.GenerateResource.cache
+C:\Users\demo\Desktop\C# .net\Calculate_Change\200394654A1\200394654A1\obj\Debug\200394654A1.exe
+C:\Users\demo\Desktop\C# .net\Calculate_Change\200394654A1\200394654A1\obj\Debug\200394654A1.pdb
